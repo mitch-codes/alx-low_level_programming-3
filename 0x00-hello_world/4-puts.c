@@ -1,7 +1,12 @@
 #include <stdio.h>
 
-int main(void){
-  char output[] = "Programming is like building a multilingual puzzle";
-  puts(output);
-  return 0;
+/**
+ *main - primary function that must be at the beginning of the program
+ *return - on reaching the end the program should return 0
+*/
+int main(void)
+{
+char output[] = "\"Programming is like building a multilingual puzzle";
+puts(output);
+ return (0);
 }
