@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - starts the c programs
- *void - return value of main
- *return:0 - returns 0 on exiting the program
+*main - starts the c programs
+*void - return value of main
+*return:0 - returns 0 on exiting the program
 */
 
 int main(void)
