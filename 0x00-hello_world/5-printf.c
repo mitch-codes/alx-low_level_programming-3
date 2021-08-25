@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+/**
+ *main - starts a file
+ *return:0 - ends the program with 0
+*/
+
+int main(void)
+{
+printf("%s", "with proper grammer, but the outcome is a piece of art, \n");
+return (0);
+}
