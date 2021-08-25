@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 /**
- * main (void) - starts a file
-
- * void - argument for main function
-
+ * main - starts a file
+ * main(void) - argument for main function
  * return:0 - ends the program with 0
 */
 
