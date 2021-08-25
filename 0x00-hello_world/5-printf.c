@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- *main - starts a file
- *void - argument for main function
- *return:0 - ends the program with 0
+ * main (void) - starts a file
+
+ * void - argument for main function
+
+ * return:0 - ends the program with 0
 */
 
 int main(void)
