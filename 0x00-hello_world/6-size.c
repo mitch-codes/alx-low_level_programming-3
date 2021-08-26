@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
-*program to print size of variable types
 *main: Entry point
 *
 *Return: Always 0 (Success)
