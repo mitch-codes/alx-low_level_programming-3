@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - starts a file
- * void: - argument for main function
- * return:0 - ends the program with 0
+ * main - Entry point
+ * return: Always 0 (success)
 */
 
 int main(void)
