@@ -25,7 +25,7 @@ int main(void)
 					putchar(x);
 					putchar(i);
 					putchar(y);
-					if (i == 56 && e == 55 && g == 57)
+					if (i == 56 && x == 55 && y == 57)
 					{
 						break;					      
 					}
