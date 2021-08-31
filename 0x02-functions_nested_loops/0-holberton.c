@@ -5,11 +5,11 @@
 */
 int main(void)
 {
-	char school[10] = "Holberton";
+	char _putchar[10] = "Holberton";
 	int i;
 
 	for (i = 0; i < 9; i++)
-		_putchar(school[i]);
+		_putchar(_putchar[i]);
 	_putchar('\n');
 	return (0);
 }
