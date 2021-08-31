@@ -5,7 +5,7 @@
 */
 int main(void)
 {
-	char school[10] = "Holberton";
+	char school[8] = "_putchar";
 	int i = 0;
 
 	while (i < 9)
