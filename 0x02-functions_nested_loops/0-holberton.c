@@ -5,14 +5,9 @@
 */
 int main(void)
 {
-	char school[8] = "_putchar";
-	int i = 0;
+	char school = "_putchar";
 
-	while (i < 9)
-	{
-		_putchar(school[i]);
-		i++;
-	}
+	_putchar(school[i]);
 	_putchar('\n');
 	return (0);
 }
