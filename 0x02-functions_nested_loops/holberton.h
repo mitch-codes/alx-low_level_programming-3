@@ -1,6 +1,8 @@
 #ifndef _holberton_h_
 #define _holberton_h_
 
+int _putchar(char);
+
 void print_alpabet(void);
 
 void print_alpabet_x10(void);
