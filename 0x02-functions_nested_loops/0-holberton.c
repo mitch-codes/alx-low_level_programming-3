@@ -1,13 +1,15 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * main - prints Holberton then a new line
  * Return: Always 0 (Success)
 */
 int main(void)
 {
-	char school[8] = "_putchar";
+	char school[8] = "Holberton";
+	int i;
 
-	_putchar(school);
-	_putchar('\n');
+	for (i = 0; i < 9; i++)
+		_putchar(school[i]);
+	putchar('\n');
 	return (0);
 }
