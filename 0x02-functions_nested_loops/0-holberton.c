@@ -5,7 +5,7 @@
 */
 int main(void)
 {
-	char school = "_putchar";
+	char school[8] = "_putchar";
 
 	_putchar(school);
 	_putchar('\n');
