@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * main - prints Holberton then a new line
  * Return: Always 0 (Success)
