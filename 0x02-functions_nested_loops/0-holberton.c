@@ -7,7 +7,7 @@ int main(void)
 {
 	char school = "_putchar";
 
-	_putchar(school[i]);
+	_putchar(school);
 	_putchar('\n');
 	return (0);
 }
