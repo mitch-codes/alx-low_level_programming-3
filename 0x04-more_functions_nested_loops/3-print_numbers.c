@@ -1,14 +1,13 @@
 #include "main.h"
 /**
  * print_numbers - prints 0 to 9
- * 
- * Description: using char and _putchar
+ * Description: You can only use _putchar twice
 */
 void print_numbers(void)
 {
-	char x;
+	int x;
 
-	for (x = 0; x <= 9; x++)
+	for (x = 0; x < 10; x++)
 	{
 		_putchar(x + '0');
 	}
