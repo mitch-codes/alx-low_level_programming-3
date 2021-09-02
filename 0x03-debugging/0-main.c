@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * main - uses function positive_or_negative() to check if it return correct ouput.
  *
@@ -6,8 +6,9 @@
 */
 int main(void)
 {
-	int i = 0;
+	int i;
 
+	i = 0;
 	positive_or_negative(i);
 	
 	return (0);
