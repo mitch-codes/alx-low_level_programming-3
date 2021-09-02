@@ -2,7 +2,7 @@
 /**
  * print_numbers - prints 0 to 9
  * 
- * Return: Always 0 (Success)
+ * Description: using char and _putchar
 */
 void print_numbers(void)
 {
